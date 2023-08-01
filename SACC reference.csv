@@ -1,0 +1,409 @@
+SACC,Country/Region,SACC_Major_group,Region
+1,OCEANIA AND ANTARCTICA,OCEANIA AND ANTARCTICA,
+11,Australia,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1101,Australia,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1102,Norfolk Island,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1199,Australia,OCEANIA AND ANTARCTICA,East Asia & Pacific
+12,New Zealand,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1201,New Zealand,OCEANIA AND ANTARCTICA,East Asia & Pacific
+13,Melanesia,OCEANIA AND ANTARCTICA,
+1301,New Caledonia,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1302,Papua New Guinea,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1303,Solomon Islands,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1304,Vanuatu,OCEANIA AND ANTARCTICA,East Asia & Pacific
+14,Micronesia,OCEANIA AND ANTARCTICA,
+1401,Guam,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1402,Kiribati,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1403,Marshall Islands,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1404,"Micronesia, Federated States of",OCEANIA AND ANTARCTICA,
+1405,Nauru,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1406,Northern Mariana Islands,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1407,Palau,OCEANIA AND ANTARCTICA,East Asia & Pacific
+15,Polynesia (excludes Hawaii),OCEANIA AND ANTARCTICA,
+1501,Cook Islands,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1502,Fiji,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1503,French Polynesia,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1504,Niue,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1505,Samoa,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1506,"Samoa, American",OCEANIA AND ANTARCTICA,East Asia & Pacific
+1507,Tokelau,OCEANIA AND ANTARCTICA,
+1508,Tonga,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1511,Tuvalu,OCEANIA AND ANTARCTICA,East Asia & Pacific
+1512,Wallis and Futuna,OCEANIA AND ANTARCTICA,
+1513,Pitcairn Islands,OCEANIA AND ANTARCTICA,
+1599,"Polynesia (excludes Hawaii), nec",OCEANIA AND ANTARCTICA,East Asia & Pacific
+16,Antarctica,OCEANIA AND ANTARCTICA,
+1601,Adelie Land (France),OCEANIA AND ANTARCTICA,
+1602,Argentinian Antarctic Territory,OCEANIA AND ANTARCTICA,
+1603,Australian Antarctic Territory,OCEANIA AND ANTARCTICA,
+1604,British Antarctic Territory,OCEANIA AND ANTARCTICA,
+1605,Chilean Antarctic Territory,OCEANIA AND ANTARCTICA,
+1606,Queen Maud Land (Norway),OCEANIA AND ANTARCTICA,
+1607,Ross Dependency (New Zealand),OCEANIA AND ANTARCTICA,
+2,NORTH-WEST EUROPE,NORTH-WEST EUROPE,Europe & Central Asia
+21," United Kingdom, Channel Islands and Isle of Man",NORTH-WEST EUROPE,
+2102,England,NORTH-WEST EUROPE,Europe & Central Asia
+2103,Isle of Man,NORTH-WEST EUROPE,Europe & Central Asia
+2104,Northern Ireland,NORTH-WEST EUROPE,Europe & Central Asia
+2105,Scotland,NORTH-WEST EUROPE,Europe & Central Asia
+2106,Wales,NORTH-WEST EUROPE,Europe & Central Asia
+2107,Guernsey,NORTH-WEST EUROPE,Europe & Central Asia
+2108,Jersey,NORTH-WEST EUROPE,Europe & Central Asia
+22,Ireland,NORTH-WEST EUROPE,Europe & Central Asia
+2201,Ireland,NORTH-WEST EUROPE,Europe & Central Asia
+23,Western Europe,NORTH-WEST EUROPE,Europe & Central Asia
+2301,Austria,NORTH-WEST EUROPE,Europe & Central Asia
+2302,Belgium,NORTH-WEST EUROPE,Europe & Central Asia
+2303,France,NORTH-WEST EUROPE,Europe & Central Asia
+2304,Germany,NORTH-WEST EUROPE,Europe & Central Asia
+2305,Liechtenstein,NORTH-WEST EUROPE,Europe & Central Asia
+2306,Luxembourg,NORTH-WEST EUROPE,Europe & Central Asia
+2307,Monaco,NORTH-WEST EUROPE,Europe & Central Asia
+2308,Netherlands,NORTH-WEST EUROPE,Europe & Central Asia
+2311,Switzerland,NORTH-WEST EUROPE,Europe & Central Asia
+24,Northern Europe,NORTH-WEST EUROPE,Europe & Central Asia
+2401,Denmark,NORTH-WEST EUROPE,Europe & Central Asia
+2402,Faroe Islands,NORTH-WEST EUROPE,Europe & Central Asia
+2403,Finland,NORTH-WEST EUROPE,Europe & Central Asia
+2404,Greenland,NORTH-WEST EUROPE,Europe & Central Asia
+2405,Iceland,NORTH-WEST EUROPE,Europe & Central Asia
+2406,Norway,NORTH-WEST EUROPE,Europe & Central Asia
+2407,Sweden,NORTH-WEST EUROPE,Europe & Central Asia
+2408,Aland Islands,NORTH-WEST EUROPE,Europe & Central Asia
+3,SOUTHERN AND EASTERN EUROPE,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+31,Southern Europe,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3101,Andorra,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3102,Gibraltar,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3103,Holy See,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3104,Italy,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3105,Malta,SOUTHERN AND EASTERN EUROPE,Middle East & North Africa
+3106,Portugal,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3107,San Marino,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3108,Spain,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+32,South Eastern Europe,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3201,Albania,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3202,Bosnia and Herzegovina,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3203,Bulgaria,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3204,Croatia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3205,Cyprus,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3206,North Macedonia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3207,Greece,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3208,Moldova,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3211,Romania,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3212,Slovenia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3214,Montenegro,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3215,Serbia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3216,Kosovo,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+33,Eastern Europe,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3301,Belarus,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3302,Czechia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3303,Estonia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3304,Hungary,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3305,Latvia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3306,Lithuania,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3307,Poland,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3308,Russian Federation,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3311,Slovakia,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+3312,Ukraine,SOUTHERN AND EASTERN EUROPE,Europe & Central Asia
+4,NORTH AFRICA and the MIDDLE EAST,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+41,North Africa,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4101,Algeria,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4102,Egypt,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4103,Libya,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4104,Morocco,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4105,Sudan,NORTH AFRICA and the MIDDLE EAST,Sub-Saharan Africa
+4106,Tunisia,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4107,Western Sahara,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4108,Spanish North Africa,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4111,South Sudan,NORTH AFRICA and the MIDDLE EAST,Sub-Saharan Africa
+42,Middle East,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4201,Bahrain,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4202,Gaza Strip and West Bank,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4203,Iran,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4204,Iraq,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4205,Israel,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4206,Jordan,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4207,Kuwait,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4208,Lebanon,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4211,Oman,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4212,Qatar,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4213,Saudi Arabia,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4214,Syria,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4215,Türkiye,NORTH AFRICA and the MIDDLE EAST,Europe & Central Asia
+4216,United Arab Emirates,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+4217,Yemen,NORTH AFRICA and the MIDDLE EAST,Middle East & North Africa
+5,SOUTH-EAST ASIA,SOUTH-EAST ASIA,East Asia & Pacific
+51,Mainland South-East Asia,SOUTH-EAST ASIA,East Asia & Pacific
+5101,Myanmar,SOUTH-EAST ASIA,East Asia & Pacific
+5102,Cambodia,SOUTH-EAST ASIA,East Asia & Pacific
+5103,Laos,SOUTH-EAST ASIA,East Asia & Pacific
+5104,Thailand,SOUTH-EAST ASIA,East Asia & Pacific
+5105,Vietnam,SOUTH-EAST ASIA,East Asia & Pacific
+52,Maritime South-East Asia,SOUTH-EAST ASIA,East Asia & Pacific
+5201,Brunei Darussalam,SOUTH-EAST ASIA,East Asia & Pacific
+5202,Indonesia,SOUTH-EAST ASIA,East Asia & Pacific
+5203,Malaysia,SOUTH-EAST ASIA,East Asia & Pacific
+5204,Philippines,SOUTH-EAST ASIA,East Asia & Pacific
+5205,Singapore,SOUTH-EAST ASIA,East Asia & Pacific
+5206,Timor-Leste,SOUTH-EAST ASIA,East Asia & Pacific
+6,NORTH-EAST ASIA,NORTH-EAST ASIA,
+61,Chinese Asia (includes Mongolia),NORTH-EAST ASIA,
+6101,China (excludes SARs and Taiwan),NORTH-EAST ASIA,East Asia & Pacific
+6102,Hong Kong (SAR of China),NORTH-EAST ASIA,East Asia & Pacific
+6103,Macau (SAR of China),NORTH-EAST ASIA,East Asia & Pacific
+6104,Mongolia,NORTH-EAST ASIA,East Asia & Pacific
+6105,Taiwan ,NORTH-EAST ASIA,East Asia & Pacific
+62,Japan and the Koreas,NORTH-EAST ASIA,East Asia & Pacific
+6201,Japan,NORTH-EAST ASIA,East Asia & Pacific
+6202,"Korea, Democratic People's Republic of (North)",NORTH-EAST ASIA,East Asia & Pacific
+6203,"Korea, Republic of (South)",NORTH-EAST ASIA,East Asia & Pacific
+7,SOUTHERN and CENTRAL ASIA,SOUTHERN and CENTRAL ASIA,
+71, Southern Asia,SOUTHERN and CENTRAL ASIA,South Asia
+7101,Bangladesh,SOUTHERN and CENTRAL ASIA,South Asia
+7102,Bhutan,SOUTHERN and CENTRAL ASIA,South Asia
+7103,India,SOUTHERN and CENTRAL ASIA,South Asia
+7104,Maldives,SOUTHERN and CENTRAL ASIA,South Asia
+7105,Nepal,SOUTHERN and CENTRAL ASIA,South Asia
+7106,Pakistan,SOUTHERN and CENTRAL ASIA,South Asia
+7107,Sri Lanka,SOUTHERN and CENTRAL ASIA,South Asia
+72,Central Asia,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7201,Afghanistan,SOUTHERN and CENTRAL ASIA,South Asia
+7202,Armenia,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7203,Azerbaijan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7204,Georgia,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7205,Kazakhstan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7206,Kyrgyzstan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7207,Tajikistan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7208,Turkmenistan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+7211,Uzbekistan,SOUTHERN and CENTRAL ASIA,Europe & Central Asia
+8,AMERICAS,AMERICAS,
+81,Northern America,AMERICAS,North America
+8101,Bermuda,AMERICAS,North America
+8102,Canada,AMERICAS,North America
+8103,St Pierre and Miquelon,AMERICAS,North America
+8104,United States of America,AMERICAS,North America
+82,South America,AMERICAS,Latin America & Caribbean
+8201,Argentina,AMERICAS,Latin America & Caribbean
+8202,Bolivia,AMERICAS,Latin America & Caribbean
+8203,Brazil,AMERICAS,Latin America & Caribbean
+8204,Chile,AMERICAS,Latin America & Caribbean
+8205,Colombia,AMERICAS,Latin America & Caribbean
+8206,Ecuador,AMERICAS,Latin America & Caribbean
+8207,Falkland Islands,AMERICAS,
+8208,French Guiana,AMERICAS,Latin America & Caribbean
+8211,Guyana,AMERICAS,Latin America & Caribbean
+8212,Paraguay,AMERICAS,Latin America & Caribbean
+8213,Peru,AMERICAS,Latin America & Caribbean
+8214,Suriname,AMERICAS,Latin America & Caribbean
+8215,Uruguay,AMERICAS,Latin America & Caribbean
+8216,Venezuela,AMERICAS,Latin America & Caribbean
+8299,"South America, nec",AMERICAS,Latin America & Caribbean
+83,Central America,AMERICAS,Latin America & Caribbean
+8301,Belize,AMERICAS,Latin America & Caribbean
+8302,Costa Rica,AMERICAS,Latin America & Caribbean
+8303,El Salvador,AMERICAS,Latin America & Caribbean
+8304,Guatemala,AMERICAS,Latin America & Caribbean
+8305,Honduras,AMERICAS,Latin America & Caribbean
+8306,Mexico,AMERICAS,Latin America & Caribbean
+8307,Nicaragua,AMERICAS,Latin America & Caribbean
+8308,Panama,AMERICAS,Latin America & Caribbean
+84,Caribbean,AMERICAS,Latin America & Caribbean
+8401,Anguilla,AMERICAS,Latin America & Caribbean
+8402,Antigua and Barbuda,AMERICAS,Latin America & Caribbean
+8403,Aruba,AMERICAS,Latin America & Caribbean
+8404,Bahamas,AMERICAS,Latin America & Caribbean
+8405,Barbados,AMERICAS,Latin America & Caribbean
+8406,Cayman Islands,AMERICAS,Latin America & Caribbean
+8407,Cuba,AMERICAS,Latin America & Caribbean
+8408,Dominica,AMERICAS,Latin America & Caribbean
+8411,Dominican Republic,AMERICAS,Latin America & Caribbean
+8412,Grenada,AMERICAS,Latin America & Caribbean
+8413,Guadeloupe,AMERICAS,Latin America & Caribbean
+8414,Haiti,AMERICAS,Latin America & Caribbean
+8415,Jamaica,AMERICAS,Latin America & Caribbean
+8416,Martinique,AMERICAS,Latin America & Caribbean
+8417,Montserrat,AMERICAS,Latin America & Caribbean
+8421,Puerto Rico,AMERICAS,Latin America & Caribbean
+8422,St Kitts and Nevis,AMERICAS,Latin America & Caribbean
+8423,St Lucia,AMERICAS,Latin America & Caribbean
+8424,St Vincent and the Grenadines,AMERICAS,Latin America & Caribbean
+8425,Trinidad and Tobago,AMERICAS,Latin America & Caribbean
+8426,Turks and Caicos Islands,AMERICAS,Latin America & Caribbean
+8427,"Virgin Islands, British ",AMERICAS,Latin America & Caribbean
+8428,"Virgin Islands, United States",AMERICAS,Latin America & Caribbean
+8431,St Barthelemy,AMERICAS,Latin America & Caribbean
+8432,St Martin (French part),AMERICAS,Latin America & Caribbean
+8433,"Bonaire, Sint Eustatius and Saba",AMERICAS,Latin America & Caribbean
+8434,Curacao,AMERICAS,Latin America & Caribbean
+8435,Sint Maarten (Dutch part),AMERICAS,Latin America & Caribbean
+9,SUB-SAHARAN AFRICA,SUB-SAHARAN AFRICA,
+91,Central and West Africa,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9101,Benin,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9102,Burkina Faso,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9103,Cameroon,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9104,Cabo Verde,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9105,Central African Republic,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9106,Chad,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9107,"Congo, Republic of",SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9108,"Congo, Democratic Republic of",SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9111,Cote d'Ivoire,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9112,Equatorial Guinea,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9113,Gabon,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9114,Gambia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9115,Ghana,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9116,Guinea,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9117,Guinea-Bissau,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9118,Liberia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9121,Mali,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9122,Mauritania,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9123,Niger,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9124,Nigeria,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9125,Sao Tome and Principe,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9126,Senegal,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9127,Sierra Leone,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9128,Togo,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+92,Southern and East Africa,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9201,Angola,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9202,Botswana,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9203,Burundi,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9204,Comoros,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9205,Djibouti,SUB-SAHARAN AFRICA,Middle East & North Africa
+9206,Eritrea,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9207,Ethiopia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9208,Kenya,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9211,Lesotho,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9212,Madagascar,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9213,Malawi,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9214,Mauritius,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9215,Mayotte,SUB-SAHARAN AFRICA,
+9216,Mozambique,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9217,Namibia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9218,Reunion,SUB-SAHARAN AFRICA,
+9221,Rwanda,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9222,St Helena,SUB-SAHARAN AFRICA,
+9223,Seychelles,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9224,Somalia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9225,South Africa,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9226,Eswatini,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9227,Tanzania,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9228,Uganda,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9231,Zambia,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9232,Zimbabwe,SUB-SAHARAN AFRICA,Sub-Saharan Africa
+9299,"Southern and East Africa, nec",,
+,Netherlands Antilles,,Latin America & Caribbean
+,Channel islands,,Europe & Central Asia
+,"North Africa, nec",,Middle East & North Africa
+,Patagonia ,,Latin America & Caribbean
+,"Taiwan, Province of China",,East Asia & Pacific
+,Christmas Island,,East Asia & Pacific
+,Cocos (Keeling) Islands,,East Asia & Pacific
+,West Germany,,Europe & Central Asia
+,USSR,,Europe & Central Asia
+,Czechoslovakia,,Europe & Central Asia
+,Sudan,,Sub-Saharan Africa
+,Ethiopia,,Sub-Saharan Africa
+,Panama,,Latin America & Caribbean
+,Yemen Arab Republic,,Europe & Central Asia
+3213,Serbia and Montenegro,,Europe & Central Asia
+,Turkey,,Europe & Central Asia
+,"Korea, Democratic Peoples Republic of (North)",,East Asia & Pacific
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
+,User-defined,,
